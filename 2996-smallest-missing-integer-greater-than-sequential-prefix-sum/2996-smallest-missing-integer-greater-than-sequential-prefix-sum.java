@@ -13,7 +13,7 @@ class Solution {
             set.add(num);
         }
         while (set.contains(sum)) {
-            sum++
+            sum++;
         }
         return sum;
     }
