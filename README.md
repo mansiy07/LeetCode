@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
