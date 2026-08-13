@@ -21,72 +21,83 @@ class Solution {
     String s;
 
     Node merge(Node left, Node right) {
-        Node res = new Node(
+        Node result = new Node(
             left.len + right.len,
-            0, 0, 0,
+            0,
+            0,
+            0,
             left.leftChar,
             right.rightChar
         );
-        res.pref = left.pref;
+        result.pref = left.pref;
 
         if (left.pref == left.len &&
             left.rightChar == right.leftChar) {
-            res.pref += right.pref;
+
+            result.pref += right.pref;
         }
-        res.suff = right.suff;
+        result.suff = right.suff;
 
         if (right.suff == right.len &&
             left.rightChar == right.leftChar) {
-            res.suff += left.suff;
+            result.suff += left.suff;
         }
-        res.best = Math.max(left.best, right.best);
+        result.best = Math.max(left.best, right.best);
         if (left.rightChar == right.leftChar) {
-            res.best = Math.max(
-                res.best,
+            result.best = Math.max(
+                result.best,
                 left.suff + right.pref
             );
         }
-        return res;
+        return result;
     }
-    void build(int index, int low, int high) {
-        if (low == high) {
-            char c = s.charAt(low);
-
-            tree[index] = new Node(
+    void build(int node, int start, int end) {
+        if (start == end) {
+            char c = s.charAt(start);
+            tree[node] = new Node(
                 1, 1, 1, 1, c, c
             );
-
             return;
         }
-        int mid = low + (high - low) / 2;
+        int mid = start + (end - start) / 2;
+        build(node * 2, start, mid);
+        build(node * 2 + 1, mid + 1, end);
 
-        build(index * 2, low, mid);
-        build(index * 2 + 1, mid + 1, high);
-
-        tree[index] = merge(
-            tree[index * 2],
-            tree[index * 2 + 1]
+        tree[node] = merge(
+            tree[node * 2],
+            tree[node * 2 + 1]
         );
     }
-    void update(int index, int low, int high,
-                int pos, char c) {
+    void update(int node, int start, int end,
+                int index, char c) {
 
-        if (low == high) {
-            tree[index] = new Node(
+        if (start == end) {
+            tree[node] = new Node(
                 1, 1, 1, 1, c, c
             );
             return;
         }
-        int mid = low + (high - low) / 2;
-
-        if (pos <= mid) {
-            update(index * 2, low, mid, pos, c);
+        int mid = start + (end - start) / 2;
+        if (index <= mid) {
+            update(
+                node * 2,
+                start,
+                mid,
+                index,
+                c
+            );
         } else {
-            update(index * 2 + 1, mid + 1, high, pos, c);
+            update(
+                node * 2 + 1,
+                mid + 1,
+                end,
+                index,
+                c
+            );
         }
-        tree[index] = merge(
-            tree[index * 2],
-            tree[index * 2 + 1]
+        tree[node] = merge(
+            tree[node * 2],
+            tree[node * 2 + 1]
         );
     }
     public int[] longestRepeating(
@@ -96,7 +107,6 @@ class Solution {
 
         this.s = s;
         int n = s.length();
-
         tree = new Node[4 * n];
         build(1, 0, n - 1);
         int[] answer = new int[queryIndices.length];
@@ -104,7 +114,13 @@ class Solution {
         for (int i = 0; i < queryIndices.length; i++) {
             int index = queryIndices[i];
             char c = queryCharacters.charAt(i);
-            update(1, 0, n - 1, index, c);
+            update(
+                1,
+                0,
+                n - 1,
+                index,
+                c
+            );
             answer[i] = tree[1].best;
         }
         return answer;
