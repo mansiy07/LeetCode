@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansiy07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansiy07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Matrix
+|  |
+| ------- |
+| [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
