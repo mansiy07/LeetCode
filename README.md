@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+## Math
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
