@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansiy07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansiy07/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -104,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
