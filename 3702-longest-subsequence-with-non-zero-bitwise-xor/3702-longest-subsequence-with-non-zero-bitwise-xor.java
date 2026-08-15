@@ -9,7 +9,7 @@ class Solution {
                 hasNonZero = true;
             }
         }
-        if (xor != 0) {
+        if (xor != 0){
             return nums.length;
         }
         if (!hasNonZero) {
