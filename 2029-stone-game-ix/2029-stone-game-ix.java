@@ -1,6 +1,6 @@
 class Solution {
     public boolean stoneGameIX(int[] stones) {
-        int[] count = new int[3]
+        int[] count = new int[3];
         for (int stone : stones) {
             count[stone % 3]++;
         }
