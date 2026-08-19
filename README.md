@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mansiy07/LeetCode/tree/master/0190-reverse-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/mansiy07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
