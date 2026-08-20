@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0897-increasing-order-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mansiy07/LeetCode/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Math
 |  |
