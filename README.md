@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansiy07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansiy07/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+| [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mansiy07/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiy07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mansiy07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mansiy07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mansiy07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
