@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansiy07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansiy07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 ## Divide and Conquer
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/mansiy07/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -140,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -189,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiy07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
