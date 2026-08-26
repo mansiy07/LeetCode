@@ -1,8 +1,8 @@
 class Solution{
     public String shortestBeautifulSubstring(String s,int k){
-        int left = 0;
-        int ones = 0;
-        String ans = "";
+        int left=0;
+        int ones=0;
+        String ans="";
         for (int right = 0;right<s.length();right++){
             if (s.charAt(right)=='1'){
                 ones++;
