@@ -1,26 +1,15 @@
-import java.util.*;
-
 class Solution {
-
     public String lexGreaterPermutation(String s, String target) {
-
         int n = s.length();
-
         if (n < target.length()) {
             return "";
         }
-
         int[] freq = new int[26];
-
         for (char ch : s.toCharArray()) {
             freq[ch - 'a']++;
         }
-
         char[] ans = new char[n];
-
-        // Build same prefix as target
         int limit = Math.min(n, target.length());
-
         for (int i = 0; i < limit; i++) {
             int x = target.charAt(i) - 'a';
             if (freq[x] > 0) {
