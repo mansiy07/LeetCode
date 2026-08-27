@@ -65,7 +65,7 @@ class Solution {
                 }
             }
             if (next != -1) {
-                ans[i] = (char) ('a' + next);
+                ans[i] = (char) ('a'+next);
                 freq[next]--;
                 fillRemaining(ans, i + 1, freq);
                 return new String(ans);
@@ -76,7 +76,7 @@ class Solution {
     private void fillRemaining(char[] ans, int index, int[] freq) {
         for (int i = 0; i < 26; i++) {
             while (freq[i] > 0) {
-                ans[index++] = (char) ('a' + i);
+                ans[index++] = (char) ('a'+i);
                 freq[i]--;
             }
         }
