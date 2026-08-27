@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/mansiy07/LeetCode/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiy07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansiy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mansiy07/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/mansiy07/LeetCode/tree/master/1872-stone-game-viii) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mansiy07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
