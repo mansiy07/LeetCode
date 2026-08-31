@@ -18,7 +18,7 @@ class Solution {
         ListNode curr = head.next;
         while (curr != null && curr.next != null) {
             int a = prev.val;
-            int b = curr.val
+            int b = curr.val;
             int c = curr.next.val;
             if ((b > a && b > c) || (b < a && b < c)) {
                 if (first == -1) {
