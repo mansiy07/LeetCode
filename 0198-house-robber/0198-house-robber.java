@@ -14,7 +14,7 @@ class Solution{
             return dp[i];
         }
         int exclude=0+fxn(i+1,nums);
-        int include=nums[i]+fxn(i+2,nums);
+        int include=nums[i]+fxn(i,nums);
         return dp[i]= Math.max(include,exclude);
     }
 }
