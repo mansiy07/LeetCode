@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/mansiy07/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mansiy07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansiy07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mansiy07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mansiy07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansiy07/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mansiy07/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/mansiy07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode/tree/master/1122-relative-sort-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mansiy07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3446-sort-matrix-by-diagonals](https://github.com/mansiy07/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Divide and Conquer
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mansiy07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansiy07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mansiy07/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansiy07/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansiy07/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
