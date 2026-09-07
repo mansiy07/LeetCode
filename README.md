@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mansiy07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3446-sort-matrix-by-diagonals](https://github.com/mansiy07/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3913-sort-vowels-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansiy07/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansiy07/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mansiy07/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3913-sort-vowels-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Segment Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/mansiy07/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansiy07/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3913-sort-vowels-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Backtracking
 |  |
 | ------- |
