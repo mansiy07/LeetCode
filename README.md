@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/mansiy07/LeetCode/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/mansiy07/LeetCode/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansiy07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mansiy07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/mansiy07/LeetCode/tree/master/0791-custom-sort-string) |
 | [0940-distinct-subsequences-ii](https://github.com/mansiy07/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansiy07/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
