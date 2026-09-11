@@ -14,51 +14,37 @@
  * }
  */
 class Solution {
-    
     int maxFreq = 0;
     int currFreq = 0;
     Integer prev = null;
-
     List<Integer> ans = new ArrayList<>();
-
     public int[] findMode(TreeNode root) {
         inorder(root);
 
         int[] result = new int[ans.size()];
-
         for (int i = 0; i < ans.size(); i++) {
             result[i] = ans.get(i);
         }
-
         return result;
     }
-
     void inorder(TreeNode root) {
         if (root == null) {
             return;
         }
-
         inorder(root.left);
-
-        // Count current value
         if (prev != null && prev == root.val) {
             currFreq++;
         } else {
             currFreq = 1;
         }
-
-        // New maximum frequency
         if (currFreq > maxFreq) {
             maxFreq = currFreq;
             ans.clear();
             ans.add(root.val);
         }
-
-        // Same maximum frequency
         else if (currFreq == maxFreq) {
             ans.add(root.val);
         }
-
         prev = root.val;
         inorder(root.right);
     }
