@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/mansiy07/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/mansiy07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mansiy07/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mansiy07/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
