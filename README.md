@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/mansiy07/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/mansiy07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mansiy07/LeetCode/tree/master/1927-sum-game) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mansiy07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/mansiy07/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/mansiy07/LeetCode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mansiy07/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mansiy07/LeetCode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/mansiy07/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiy07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Heap (Priority Queue)
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mansiy07/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/mansiy07/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mansiy07/LeetCode/tree/master/3904-smallest-stable-index-ii) |
