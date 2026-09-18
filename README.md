@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mansiy07/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiy07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mansiy07/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3488-closest-equal-element-queries](https://github.com/mansiy07/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mansiy07/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mansiy07/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1872-stone-game-viii](https://github.com/mansiy07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mansiy07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansiy07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mansiy07/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mansiy07/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mansiy07/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mansiy07/LeetCode/tree/master/1122-relative-sort-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/mansiy07/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mansiy07/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mansiy07/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mansiy07/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/mansiy07/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mansiy07/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mansiy07/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/mansiy07/LeetCode/tree/master/3903-smallest-stable-index-i) |
