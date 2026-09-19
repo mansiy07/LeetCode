@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/mansiy07/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansiy07/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/mansiy07/LeetCode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mansiy07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mansiy07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
