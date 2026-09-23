@@ -44,7 +44,6 @@ class Solution {
         }
         return dp[i][j]=Math.max(
             solve(text1,text2,i-1,j),
-            solve(text1,text2,i,j-1)
-        );
+            solve(text1,text2,i,j-1));
     }
 }
