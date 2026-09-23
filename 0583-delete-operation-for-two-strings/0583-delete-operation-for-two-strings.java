@@ -9,12 +9,12 @@ class Solution{
                 dp[i][j]=-1;
             }
         }
-        int lcs=solve(word1,word2,n,m);
+        int lcs=fxn(word1,word2,n,m);
         int delFromS1=n-lcs;
         int delFromS2=m-lcs;
         return delFromS1+delFromS2;
     }
-    int solve(String text1,String text2,int i,int j){
+    int fxn(String text1,String text2,int i,int j){
         if(i==0 || j==0){
             return 0;
         }
@@ -22,8 +22,8 @@ class Solution{
             return dp[i][j];
         }
         if(text1.charAt(i-1)==text2.charAt(j-1)){
-            return dp[i][j] =1+solve(text1,text2,i-1,j-1);
+            return dp[i][j] =1+fxn(text1,text2,i-1,j-1);
         }
-        return dp[i][j]=Math.max(solve(text1,text2,i-1,j),solve(text1,text2,i,j-1));
+        return dp[i][j]=Math.max(fxn(text1,text2,i-1,j),fxn(text1,text2,i,j-1));
     }
 }
