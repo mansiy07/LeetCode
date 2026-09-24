@@ -10,8 +10,9 @@ class Solution{
                 dp[i][j]=-1;
             }
         }
-        int lps = fxn(0, n - 1);
-        return n-lps;
+        //this is only the change from ques 516 other logic are same
+        int lps=fxn(0,n-1);
+        return n-lps;  //here we subtract the longest palindromic string 
     }
     public int fxn(int i,int j){
         if(i==j) return 1;
