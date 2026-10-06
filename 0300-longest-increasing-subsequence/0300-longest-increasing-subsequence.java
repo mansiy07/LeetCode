@@ -60,14 +60,14 @@ class Solution {
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
         int dp[]=new int[n];
-        int len=0;
+        int maxLis=0; //maxLis means initial length of dp array
         for(int i=0;i<n;i++){
-            int idx=lowerBound(0,len-1,nums[i],dp);
+            int idx=lowerBound(0,maxLis-1,nums[i],dp);
             dp[idx]=nums[i];
-            if (idx==len) {
-                len++;
+            if (idx==maxLis) {
+                maxLis++;
             }
         }
-        return len;
+        return maxLis;
     }
 }
