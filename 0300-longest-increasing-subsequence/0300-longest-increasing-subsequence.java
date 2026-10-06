@@ -43,36 +43,31 @@
 //     }
 // }
 
-class Solution {
-    public int lowerBound(int low, int high, int x, int nums[]) {
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
 
-            if (nums[mid] >= x) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+// Binary Search
+class Solution {
+    public int lowerBound(int low,int high,int x,int nums[]){
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]>=x){
+                high=mid-1;
+            }else{
+                low=mid+1;
             }
         }
-
         return low;
     }
-
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[] lis = new int[n];
-        int len = 0;
-
-        for (int i = 0; i < n; i++) {
-            int idx = lowerBound(0, len - 1, nums[i], lis);
-
-            lis[idx] = nums[i];
-
-            if (idx == len) {
+        int n=nums.length;
+        int lis[]=new int[n];
+        int len=0;
+        for(int i=0;i<n;i++){
+            int idx=lowerBound(0,len-1,nums[i],lis);
+            lis[idx]=nums[i];
+            if (idx==len) {
                 len++;
             }
         }
-
         return len;
     }
 }
