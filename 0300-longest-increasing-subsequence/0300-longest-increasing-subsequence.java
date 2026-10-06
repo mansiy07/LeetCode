@@ -64,7 +64,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int idx=lowerBound(0,maxLis-1,nums[i],dp);
             dp[idx]=nums[i];
-            if (idx==maxLis) {
+            if(idx==maxLis){
                 maxLis++;
             }
         }
