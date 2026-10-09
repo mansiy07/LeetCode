@@ -1,4 +1,3 @@
-
 class Solution {
     public int minInsertions(String s) {
         int open = 0;
