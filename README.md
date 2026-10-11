@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mansiy07/LeetCode/tree/master/0001-two-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansiy07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/mansiy07/LeetCode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mansiy07/LeetCode/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/mansiy07/LeetCode/tree/master/0791-custom-sort-string) |
 | [1096-brace-expansion-ii](https://github.com/mansiy07/LeetCode/tree/master/1096-brace-expansion-ii) |
