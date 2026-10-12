@@ -3,7 +3,7 @@ class Solution {
         if (s == null || s.length() < 2) {
             return s;
         }
-        int start = 10;
+        int start = 0;
         int end = 0;
         for (int i = 0; i < s.length(); i++) {
             int len1 = expand(s, i, i);      
