@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mansiy07/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/mansiy07/LeetCode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mansiy07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mansiy07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mansiy07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mansiy07/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mansiy07/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2418-sort-the-people](https://github.com/mansiy07/LeetCode/tree/master/2418-sort-the-people) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mansiy07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiy07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mansiy07/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mansiy07/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/mansiy07/LeetCode/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mansiy07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiy07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mansiy07/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mansiy07/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mansiy07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mansiy07/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mansiy07/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mansiy07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansiy07/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
