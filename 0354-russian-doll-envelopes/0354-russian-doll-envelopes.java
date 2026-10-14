@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public int maxEnvelopes(int arr[][]){
         int n=arr.length;
