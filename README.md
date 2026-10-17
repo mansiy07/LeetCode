@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansiy07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/mansiy07/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mansiy07/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mansiy07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mansiy07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mansiy07/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mansiy07/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -590,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mansiy07/LeetCode/tree/master/0014-longest-common-prefix) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
