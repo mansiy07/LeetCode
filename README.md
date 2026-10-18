@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansiy07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mansiy07/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansiy07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mansiy07/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mansiy07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mansiy07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mansiy07/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansiy07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/mansiy07/LeetCode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
