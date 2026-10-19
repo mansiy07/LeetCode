@@ -1,20 +1,22 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;
-        if(N<0){
-            x = 1 / x;
-            N = -N;
+        long longN = n; // Use long to prevent overflow when negating Integer.MIN_VALUE
+        if (longN < 0) {
+            longN = -longN;
         }
-        return fxn(x,N);
-    }
-    public double fxn(double x,long n) {
-        if(n==0){
-            return 1;
+        
+        double result = 1.0;
+        double currentProduct = x;
+        
+        while (longN > 0) {
+            if ((longN & 1) == 1) {
+                result *= currentProduct;
+            }
+            currentProduct *= currentProduct;
+            longN >>= 1;
         }
-        double xnm1=fxn(x,n/2);
-        if(n%2==0){
-            return xnm1*xnm1;
-        }
-        return x*xnm1*xnm1;
+        
+        // Take reciprocal at the very end to preserve precision
+        return n < 0 ? 1.0 / result : result;
     }
 }
