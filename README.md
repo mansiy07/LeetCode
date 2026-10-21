@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mansiy07/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mansiy07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/mansiy07/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansiy07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mansiy07/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/mansiy07/LeetCode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mansiy07/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Quicksort
