@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mansiy07/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mansiy07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mansiy07/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/mansiy07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mansiy07/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/mansiy07/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansiy07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/mansiy07/LeetCode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/mansiy07/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/mansiy07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mansiy07/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mansiy07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mansiy07/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/mansiy07/LeetCode/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/mansiy07/LeetCode/tree/master/0835-image-overlap) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/mansiy07/LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mansiy07/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
