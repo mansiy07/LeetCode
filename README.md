@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mansiy07/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/mansiy07/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansiy07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/mansiy07/LeetCode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mansiy07/LeetCode/tree/master/0198-house-robber) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mansiy07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/mansiy07/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mansiy07/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansiy07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/mansiy07/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mansiy07/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/mansiy07/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/mansiy07/LeetCode/tree/master/0791-custom-sort-string) |
