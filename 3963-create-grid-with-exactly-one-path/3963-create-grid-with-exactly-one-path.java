@@ -6,7 +6,7 @@ class Solution {
             for (int j = 0; j < n; j++) {
                 row[j] = '.';
             }
-            if (i % 2 >= 1) {
+            if (i % 2 == 1) {
                 for (int j = 0; j < n - 1; j++) {
                     row[j] = '#';
                 }
