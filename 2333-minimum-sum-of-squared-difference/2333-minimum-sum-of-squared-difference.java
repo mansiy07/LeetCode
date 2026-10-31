@@ -1,43 +1,64 @@
-import java.util.Arrays;
 class Solution {
-    public long minSumSquareDiff(int[] nums1, int[] nums2,
-                                 int k1, int k2) {
-        int n = nums1.length;
-        int[] diff = new int[n];
-        long sum = 0;
+    public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         long k = (long) k1 + k2;
+        int n = nums1.length;
+
+        int[] diff = new int[n];
+        int maxDiff = 0;
+        long total = 0;
+
         for (int i = 0; i < n; i++) {
             diff[i] = Math.abs(nums1[i] - nums2[i]);
-            sum += diff[i];
+            maxDiff = Math.max(maxDiff, diff[i]);
+            total += diff[i];
         }
-        if (sum <= k) return 0;
-        Arrays.sort(diff);
-        long left = 0;
-        long right = diff[n - 1];
+
+        if (total <= k) {
+            return 0L;
+        }
+
+        int left = 0, right = maxDiff;
+
         while (left < right) {
-            long mid = left + (right - left) / 2;
-            long operations = 0;
+            int mid = left + (right - left) / 2;
+            long needed = 0;
+
             for (int d : diff) {
                 if (d > mid) {
-                    operations += d - mid;
+                    needed += d - mid;
                 }
             }
-            if (operations <= k) {
+
+            if (needed <= k) {
                 right = mid;
             } else {
                 left = mid + 1;
             }
         }
-        long level = left;
-        long ans = 0;
+
+        int level = left;
+        long used = 0;
+        long answer = 0;
+        long countAtLevel = 0;
+
         for (int d : diff) {
             if (d > level) {
-                k -= d - level;
-                d = (int) level;
+                used += d - level;
+                answer += (long) level * level;
+            } else {
+                answer += (long) d * d;
             }
-            ans += (long) d * d;
+
+            if (d >= level) {
+                countAtLevel++;
+            }
         }
-        ans -= k * (2 * level - 1);
-        return ans;
+
+        long remaining = k - used;
+
+        // Reduce 'remaining' differences from level to level - 1.
+        answer -= remaining * (2L * level - 1);
+
+        return answer;
     }
 }
