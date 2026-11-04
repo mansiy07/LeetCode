@@ -25,9 +25,7 @@ class Solution {
         }
         int result=Integer.MAX_VALUE;
         for(int k=i+1;k<j;k++){
-            int cost = fxn(i,k)
-                     +fxn(k,j)
-                     +arr[j]-arr[i];
+            int cost = fxn(i,k)+fxn(k,j)+arr[j]-arr[i];
             result=Math.min(result,cost);
         }
         return dp[i][j]=result;
