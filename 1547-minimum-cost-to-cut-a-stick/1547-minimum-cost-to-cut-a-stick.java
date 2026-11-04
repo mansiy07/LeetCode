@@ -48,13 +48,11 @@ class Solution {
         int[][] dp = new int[m + 2][m + 2];
         for (int gap = 2; gap < m + 2; gap++) {
             for (int i = 0; i + gap < m + 2; i++) {
-                int j = i + gap;
-                dp[i][j] = Integer.MAX_VALUE;
-                for (int k = i + 1; k < j; k++) {
-                    int cost = dp[i][k]
-                             + dp[k][j]
-                             + arr[j] - arr[i];
-                    dp[i][j] = Math.min(cost, dp[i][j]);
+                int j=i+gap;
+                dp[i][j]=Integer.MAX_VALUE;
+                for(int k=i+1;k<j;k++){
+                    int cost=dp[i][k]+dp[k][j]+arr[j]-arr[i];
+                    dp[i][j]=Math.min(cost,dp[i][j]);
                 }
             }
         }
