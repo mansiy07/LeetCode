@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/mansiy07/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/mansiy07/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mansiy07/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mansiy07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mansiy07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/mansiy07/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mansiy07/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/mansiy07/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mansiy07/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/mansiy07/LeetCode/tree/master/0115-distinct-subsequences) |
