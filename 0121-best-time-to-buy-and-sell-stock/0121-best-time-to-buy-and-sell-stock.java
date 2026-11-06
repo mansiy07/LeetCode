@@ -1,14 +1,15 @@
 
-import java.util.*;
-
 class Solution {
     public int maxProfit(int[] prices) {
 
         int n = prices.length;
         int[][] dp = new int[n][2];
 
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        // Initialize DP with -1
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < 2; j++) {
+                dp[i][j] = -1;
+            }
         }
 
         return fxn(0, 1, prices, dp);
@@ -44,6 +45,7 @@ class Solution {
         return dp[i][buy] = profit;
     }
 }
+
 
 
 
