@@ -4,8 +4,8 @@
 //         if(dp[n]!=-1) return dp[n];
 //         int ans=Integer.MAX_VALUE;
 //         for(int i=1;i*i<=n;i++){
-//             int takePerSq=1+fxn(n-i*i,dp);
-//             ans=Math.min(ans,takePerSq);
+//             int takePSq=1+fxn(n-i*i,dp);
+//             ans=Math.min(ans,takePSq);
 //         }
 //         return dp[n]=ans;
 //     }
@@ -26,8 +26,8 @@ class Solution {
         dp[0]=0;
         for(int i=1;i<=n;i++){
             for(int j=1;j*j<=i;j++){
-                int take=1+dp[i-j*j];
-                dp[i]=Math.min(dp[i],take);
+                int takePSq=1+dp[i-j*j];
+                dp[i]=Math.min(dp[i],takePSq);
             }
         }
         return dp[n];
