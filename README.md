@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mansiy07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mansiy07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansiy07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/mansiy07/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/mansiy07/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/mansiy07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mansiy07/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/mansiy07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/mansiy07/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mansiy07/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mansiy07/LeetCode/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/mansiy07/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/mansiy07/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -854,4 +858,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mansiy07/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
