@@ -34,36 +34,26 @@
 // Tabulation
 
 class Solution {
-    public int wiggleMaxLength(int[] nums) {
-
-        int n = nums.length;
-
-        int up[] = new int[n];
-        int down[] = new int[n];
-
-        Arrays.fill(up, 1);
-        Arrays.fill(down, 1);
-
-        for (int i = 1; i < n; i++) {
-
-            for (int j = 0; j < i; j++) {
-
-                if (nums[i] > nums[j]) {
-                    up[i] = Math.max(up[i], down[j] + 1);
+    public int wiggleMaxLength(int[] nums){
+        int n=nums.length;
+        int dpUp[]=new int[n];
+        int dpDown[]=new int[n];
+        Arrays.fill(dpUp,1);
+        Arrays.fill(dpDown,1);
+        for(int i=1;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]){
+                    dpUp[i]=Math.max(dpUp[i],dpDown[j]+1);
                 }
-
-                else if (nums[i] < nums[j]) {
-                    down[i] = Math.max(down[i], up[j] + 1);
+                else if(nums[i]<nums[j]){
+                    dpDown[i]=Math.max(dpDown[i],dpUp[j]+1);
                 }
             }
         }
-
-        int ans = 1;
-
-        for (int i = 0; i < n; i++) {
-            ans = Math.max(ans, Math.max(up[i], down[i]));
+        int result=1;
+        for(int i=0;i<n;i++){
+            result=Math.max(result,Math.max(dpUp[i],dpDown[i]));
         }
-
-        return ans;
+        return result;
     }
 }
