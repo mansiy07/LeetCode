@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/mansiy07/LeetCode/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mansiy07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansiy07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/mansiy07/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mansiy07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mansiy07/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/mansiy07/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/mansiy07/LeetCode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/mansiy07/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode/tree/master/0494-target-sum) |
