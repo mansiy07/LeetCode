@@ -2,16 +2,16 @@ class Solution{
     static int dp[][];
     public boolean canPartition(int[] nums){
         int sum=0;
-        for (int x : nums){
-            sum += x;
-        }
+        for(int x=0; x<nums.length; x++){
+    sum += nums[x];
+}
         if(sum%2!=0){
             return false;
         }
-        int target = sum / 2;
+        int target=sum/2;
         dp=new int[nums.length][target+1];
         for(int i=0;i<nums.length;i++){
-            Arrays.fill(dp[i], -1);
+            Arrays.fill(dp[i],-1);
         }
         return fxn(nums,0,target);
     }
