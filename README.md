@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mansiy07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansiy07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mansiy07/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mansiy07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mansiy07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/mansiy07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/mansiy07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/mansiy07/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/mansiy07/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/mansiy07/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/mansiy07/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/mansiy07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/mansiy07/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -792,11 +795,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mansiy07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/mansiy07/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/mansiy07/LeetCode/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
