@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mansiy07/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansiy07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mansiy07/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mansiy07/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mansiy07/LeetCode/tree/master/0048-rotate-image) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mansiy07/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mansiy07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/mansiy07/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mansiy07/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mansiy07/LeetCode/tree/master/0088-merge-sorted-array) |
