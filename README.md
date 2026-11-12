@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/mansiy07/LeetCode/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/mansiy07/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/mansiy07/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1220-count-vowels-permutation](https://github.com/mansiy07/LeetCode/tree/master/1220-count-vowels-permutation) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mansiy07/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
