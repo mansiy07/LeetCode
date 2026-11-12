@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mansiy07/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/mansiy07/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0835-image-overlap](https://github.com/mansiy07/LeetCode/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/mansiy07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mansiy07/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/mansiy07/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/mansiy07/LeetCode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0940-distinct-subsequences-ii](https://github.com/mansiy07/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/mansiy07/LeetCode/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/mansiy07/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mansiy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mansiy07/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0813-largest-sum-of-averages](https://github.com/mansiy07/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mansiy07/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mansiy07/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mansiy07/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
