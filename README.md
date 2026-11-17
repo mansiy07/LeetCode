@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mansiy07/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/mansiy07/LeetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mansiy07/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/mansiy07/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/mansiy07/LeetCode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/mansiy07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mansiy07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mansiy07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mansiy07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mansiy07/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/mansiy07/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/mansiy07/LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/mansiy07/LeetCode/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mansiy07/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mansiy07/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/mansiy07/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mansiy07/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mansiy07/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mansiy07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mansiy07/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mansiy07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
