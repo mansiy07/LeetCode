@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mansiy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/mansiy07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/mansiy07/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mansiy07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mansiy07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mansiy07/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansiy07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mansiy07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansiy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mansiy07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mansiy07/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/mansiy07/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mansiy07/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/mansiy07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/mansiy07/LeetCode/tree/master/0912-sort-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/mansiy07/LeetCode/tree/master/1388-pizza-with-3n-slices) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mansiy07/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mansiy07/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mansiy07/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Complete Knapsack
 |  |
@@ -1003,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mansiy07/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Algorithm X
 |  |
@@ -1012,4 +1017,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/mansiy07/LeetCode/tree/master/1668-maximum-repeating-substring) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mansiy07/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
