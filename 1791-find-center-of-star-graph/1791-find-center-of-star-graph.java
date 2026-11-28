@@ -10,7 +10,7 @@ class Solution {
         }
         for(int i=1;i<=n;i++){
             if(degree[i]==n-1){
-                return i;
+                return i;  
             }
         }
         return -1;
